@@ -2,3 +2,5 @@ When would you want to create a remote repository rather than keeping all your w
 when id want others to collaborate on my project
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 we want to have one commit per logical change.. if git does that automatically then wed have many unnecessary commits
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forking is one u make a copy of a git repository into another git repository. cloning is one when u make a copy of a git repository or a local repository into another local repository. branching is one u add new features separately in the same repository.
