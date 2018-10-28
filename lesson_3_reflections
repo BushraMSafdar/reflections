@@ -6,3 +6,4 @@ Describe the differences between forks, clones, and branches. When would you use
 forking is one u make a copy of a git repository into another git repository. cloning is one when u make a copy of a git repository or a local repository into another local repository. branching is one u add new features separately in the same repository.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 its benefit is that it would make merges of the branches easier
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
